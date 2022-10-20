@@ -1,5 +1,5 @@
 Pembuatan Web Sederhana dengan Ruby on Rails
-
+![rubyonrails](https://user-images.githubusercontent.com/87725779/196850834-4cf75d37-54d6-476e-9062-426615e53a97.jpg)
 
 Ruby on Rails version 7.0.3.1 
 
